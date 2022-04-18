@@ -3,7 +3,7 @@ vegetables ()
 electronics ()
 
 
-beverages ()
+
 
 
 addtocart()
